@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://indexof.ai/logo.png" alt="IndexOf.AI Logo" width="72" />
+<img src="./logo.png" alt="IndexOf.AI Logo" width="72" />
 
 # IndexOf.AI
 
