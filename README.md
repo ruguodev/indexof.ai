@@ -1,3 +1,5 @@
+<img src="./home.png" alt="IndexOf.AI Home Page" />
+
 <div align="center">
 
 <img src="./logo.png" alt="IndexOf.AI Logo" width="72" />
